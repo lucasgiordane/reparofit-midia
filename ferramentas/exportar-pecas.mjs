@@ -33,6 +33,11 @@ let args = process.argv.slice(2);
 let mapa = {};
 const im = args.indexOf('--mapa');
 if (im >= 0) { mapa = JSON.parse(fs.readFileSync(args[im + 1], 'utf8')); args.splice(im, 2); }
+// --escala <n>: multiplica a resolução. Padrão 4/3 → feed 1440×1800, story 1440×2560
+// (o Instagram exibe até 1440 px de largura; em 1080 o texto chega mais mole).
+let escala = 4 / 3;
+const ie = args.indexOf('--escala');
+if (ie >= 0) { escala = Number(args[ie + 1]); args.splice(ie, 2); }
 const raiz = path.resolve(aqui, '..');
 const [saida, ...arquivos] = args;
 if (!saida || arquivos.length === 0) { console.error('uso: node exportar-pecas.mjs <saida> <arquivos.dc.html...>'); process.exit(1); }
@@ -57,7 +62,7 @@ for (const arq of arquivos) {
     .replace('</head>', `<style>${fontCss}</style></head>`);
   const tmp = path.join(path.dirname(path.resolve(arq)), `.render-${path.basename(arq)}.html`);
   fs.writeFileSync(tmp, html);
-  const page = await browser.newPage({ viewport: { width: w, height: h }, deviceScaleFactor: 1 });
+  const page = await browser.newPage({ viewport: { width: w, height: h }, deviceScaleFactor: escala });
   await page.goto('file://' + tmp, { waitUntil: 'networkidle' });
   await page.evaluate(() => document.fonts.ready);
   const ok = await page.evaluate(() => document.fonts.check("800 40px 'Archivo'") && document.fonts.check("400 20px 'JetBrains Mono'"));
@@ -66,7 +71,7 @@ for (const arq of arquivos) {
   await page.screenshot({ path: path.join(saida, nome), clip: { x: 0, y: 0, width: w, height: h } });
   await page.close();
   fs.unlinkSync(tmp);
-  console.log(`ok ${nome} ${w}x${h}`);
+  console.log(`ok ${nome} ${Math.round(w * escala)}x${Math.round(h * escala)}`);
 }
 await browser.close();
 process.exit(falhas ? 2 : 0);
