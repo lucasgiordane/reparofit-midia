@@ -1,0 +1,562 @@
+{
+ "v": 3,
+ "attachments": {},
+ "boards": {
+  "semana-3/domingo-25-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Dom 25 · story 1 · 8h",
+   "w": 1080,
+   "x": 7040,
+   "y": 15360
+  },
+  "semana-3/domingo-25-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Dom 25 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 15360
+  },
+  "semana-3/domingo-25-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Dom 25 · story 3 · 19h · perguntas",
+   "w": 1080,
+   "x": 9360,
+   "y": 15360
+  },
+  "semana-3/quarta-21-feed-01.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qua 21 · post · Laranja · 19h30",
+   "w": 1080,
+   "x": 0,
+   "y": 5120
+  },
+  "semana-3/quarta-21-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Qua 21 · story 1 · 8h · enquete",
+   "w": 1080,
+   "x": 7040,
+   "y": 5120
+  },
+  "semana-3/quarta-21-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Qua 21 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 5120
+  },
+  "semana-3/quarta-21-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Qua 21 · story 3 · 19h",
+   "w": 1080,
+   "x": 9360,
+   "y": 5120
+  },
+  "semana-3/quinta-22-feed-01.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qui 22 · carrossel C · 01",
+   "w": 1080,
+   "x": 0,
+   "y": 7680
+  },
+  "semana-3/quinta-22-feed-02.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qui 22 · carrossel C · 02",
+   "w": 1080,
+   "x": 1160,
+   "y": 7680
+  },
+  "semana-3/quinta-22-feed-03.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qui 22 · carrossel C · 03",
+   "w": 1080,
+   "x": 2320,
+   "y": 7680
+  },
+  "semana-3/quinta-22-feed-04.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qui 22 · carrossel C · 04",
+   "w": 1080,
+   "x": 3480,
+   "y": 7680
+  },
+  "semana-3/quinta-22-feed-05.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qui 22 · carrossel C · 05",
+   "w": 1080,
+   "x": 4640,
+   "y": 7680
+  },
+  "semana-3/quinta-22-feed-06.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Qui 22 · carrossel C · 06",
+   "w": 1080,
+   "x": 5800,
+   "y": 7680
+  },
+  "semana-3/quinta-22-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Qui 22 · story 1 · 8h · enquete",
+   "w": 1080,
+   "x": 7040,
+   "y": 7680
+  },
+  "semana-3/quinta-22-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Qui 22 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 7680
+  },
+  "semana-3/quinta-22-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Qui 22 · story 3 · 19h",
+   "w": 1080,
+   "x": 9360,
+   "y": 7680
+  },
+  "semana-3/sabado-24-feed-01.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sáb 24 · post · Carbono · 19h30",
+   "w": 1080,
+   "x": 0,
+   "y": 12800
+  },
+  "semana-3/sabado-24-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Sáb 24 · story 1 · 8h · perguntas",
+   "w": 1080,
+   "x": 7040,
+   "y": 12800
+  },
+  "semana-3/sabado-24-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Sáb 24 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 12800
+  },
+  "semana-3/sabado-24-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Sáb 24 · story 3 · 19h",
+   "w": 1080,
+   "x": 9360,
+   "y": 12800
+  },
+  "semana-3/segunda-19-feed-01.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Seg 19 · post · Papel · 7h30",
+   "w": 1080,
+   "x": 0,
+   "y": 0
+  },
+  "semana-3/segunda-19-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Seg 19 · story 1 · 8h · enquete",
+   "w": 1080,
+   "x": 7040,
+   "y": 0
+  },
+  "semana-3/segunda-19-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Seg 19 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 0
+  },
+  "semana-3/segunda-19-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Seg 19 · story 3 · 19h",
+   "w": 1080,
+   "x": 9360,
+   "y": 0
+  },
+  "semana-3/sexta-23-feed-01.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sex 23 · carrossel A · 01",
+   "w": 1080,
+   "x": 0,
+   "y": 10240
+  },
+  "semana-3/sexta-23-feed-02.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sex 23 · carrossel A · 02",
+   "w": 1080,
+   "x": 1160,
+   "y": 10240
+  },
+  "semana-3/sexta-23-feed-03.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sex 23 · carrossel A · 03",
+   "w": 1080,
+   "x": 2320,
+   "y": 10240
+  },
+  "semana-3/sexta-23-feed-04.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sex 23 · carrossel A · 04",
+   "w": 1080,
+   "x": 3480,
+   "y": 10240
+  },
+  "semana-3/sexta-23-feed-05.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sex 23 · carrossel A · 05",
+   "w": 1080,
+   "x": 4640,
+   "y": 10240
+  },
+  "semana-3/sexta-23-feed-06.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Sex 23 · carrossel A · 06",
+   "w": 1080,
+   "x": 5800,
+   "y": 10240
+  },
+  "semana-3/sexta-23-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Sex 23 · story 1 · 8h · enquete",
+   "w": 1080,
+   "x": 7040,
+   "y": 10240
+  },
+  "semana-3/sexta-23-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Sex 23 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 10240
+  },
+  "semana-3/sexta-23-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Sex 23 · story 3 · 19h",
+   "w": 1080,
+   "x": 9360,
+   "y": 10240
+  },
+  "semana-3/terca-20-feed-01.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Ter 20 · carrossel B · 01",
+   "w": 1080,
+   "x": 0,
+   "y": 2560
+  },
+  "semana-3/terca-20-feed-02.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Ter 20 · carrossel B · 02",
+   "w": 1080,
+   "x": 1160,
+   "y": 2560
+  },
+  "semana-3/terca-20-feed-03.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Ter 20 · carrossel B · 03",
+   "w": 1080,
+   "x": 2320,
+   "y": 2560
+  },
+  "semana-3/terca-20-feed-04.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Ter 20 · carrossel B · 04",
+   "w": 1080,
+   "x": 3480,
+   "y": 2560
+  },
+  "semana-3/terca-20-feed-05.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Ter 20 · carrossel B · 05",
+   "w": 1080,
+   "x": 4640,
+   "y": 2560
+  },
+  "semana-3/terca-20-feed-06.dc.html": {
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Ter 20 · carrossel B · 06",
+   "w": 1080,
+   "x": 5800,
+   "y": 2560
+  },
+  "semana-3/terca-20-story-1.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Ter 20 · story 1 · 8h",
+   "w": 1080,
+   "x": 7040,
+   "y": 2560
+  },
+  "semana-3/terca-20-story-2.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Ter 20 · story 2 · 12h30",
+   "w": 1080,
+   "x": 8200,
+   "y": 2560
+  },
+  "semana-3/terca-20-story-3.dc.html": {
+   "h": 1920,
+   "page": "semana-3",
+   "title": "Ter 20 · story 3 · 19h · enquete",
+   "w": 1080,
+   "x": 9360,
+   "y": 2560
+  },
+  "semana-3/domingo-25-feed-01.dc.html": {
+   "x": 0,
+   "y": 15360,
+   "w": 1080,
+   "h": 1350,
+   "page": "semana-3",
+   "title": "Dom 25 · post · Papel · 12h"
+  }
+ },
+ "createdOnFiles": {
+  "at": "2026-10-17T12:30:00Z",
+  "v": 1
+ },
+ "designSystems": [
+  {
+   "artifact": "https://claude.ai/artifact/MJ6wVjsjGBk8DrinTCJcN4",
+   "copiedAt": "2026-10-17T12:30:00Z",
+   "namespace": "reparofit",
+   "title": "ReparoFit",
+   "version": "1792109319-ec6b"
+  }
+ ],
+ "launch": {
+  "view": "canvas"
+ },
+ "notes": {
+  "s3-dom-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "DOM 25/10 · POST SIMPLES · PAPEL · 12h\nPalavra: REPARO (tour) · sem brinde · sem imagem de IA\n\nLEGENDA\nDaqui a 1 ano, você vai agradecer por ter começado o histórico hoje.\n\nHoje: o primeiro registro de cada aparelho (limpeza, sinal, conserto, preventiva).\nEm 3 meses: os padrões aparecem. Qual aparelho mais quebra, em que turno, quanto tempo leva para resolver.\nEm 1 ano: você decide com dado se vale consertar ou trocar.\n\nToda semana sem registro é uma semana de histórico que não volta.\n\n💬 Comente REPARO e faça um tour pela ReparoFit.\n\n#gestaodeacademia #manutencaodeacademia #academia\n\n1º COMENTÁRIO\nSe você começasse hoje, qual aparelho da sua academia ganharia histórico primeiro? 👇\n\nSTORIES\n8h · \"Resumo da semana: preventiva não é gasto.\" · sem figurinha (automático)\n12h30 · \"3 coisas para começar\" + aponta para o post do dia (no ar desde 12h) · foto da recepção · sem figurinha (automático)\n19h · \"Qual a sua dúvida sobre a gestão da manutenção?\" · FIGURINHA caixa de perguntas (você publica pelo app)",
+   "w": 1100,
+   "x": 10560,
+   "y": 15360
+  },
+  "s3-dom-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Dom 25/10 · post simples Papel · 12h · REPARO",
+   "w": 240,
+   "x": 0,
+   "y": 15080
+  },
+  "s3-qua-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "QUA 21/10 · POST SIMPLES · LARANJA · 19h30\nSem palavra-chave · sem imagem de IA\n\nLEGENDA\nGestor, pare de esperar o aluno reclamar.\n\nQuando a reclamação chega na recepção, o aparelho já estava com problema há dias. E muito aluno nem reclama: só para de usar o aparelho.\n\nDá para inverter a ordem: ronda semanal, registro de cada sinal e um jeito simples de o aluno avisar, como um QR Code no próprio aparelho.\n\nEnvie para quem cuida da academia com você. 📲\n\n#gestaodeacademia #academia #experienciadoaluno\n\n1º COMENTÁRIO\nNa sua academia, quem percebe primeiro um aparelho com problema: a equipe ou o aluno? 👇\n\nSTORIES\n8h · \"Quem percebe primeiro o aparelho com problema?\" · FIGURINHA enquete: A equipe / O aluno (você publica pelo app)\n12h30 · \"Muito aluno não reclama. Só para de usar.\" + foto do QR · sem figurinha (automático) · IA: sim\n19h · \"Hoje às 19h30: Gestor, pare de esperar o aluno reclamar.\" · aponta para o post · sem figurinha (automático)",
+   "w": 1100,
+   "x": 10560,
+   "y": 5120
+  },
+  "s3-qua-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Qua 21/10 · post simples Laranja · 19h30",
+   "w": 240,
+   "x": 0,
+   "y": 4840
+  },
+  "s3-qui-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "QUI 22/10 · CARROSSEL C · ALTERNADO · 6 págs · 19h30\nPalavra: REPARO (tour) · sem PDF · IA: sim (foto da pág. 6) · pág. 5 com selo DADOS DEMONSTRATIVOS\n\nLEGENDA\nO erro de lubrificação que gasta a esteira sem ninguém perceber (e a rotina de limpeza que vem antes dele).\n\nTodo dia: pegadores, bancos e estofados; painel com pano levemente úmido; pó e fiapos em volta da esteira.\nToda semana: pó embaixo das esteiras, cabos, polias e regulagens.\nTodo mês: lubrificação conforme o manual de cada aparelho. O erro é lubrificar \"no olho\", com o produto que estiver à mão.\n\nE sem registro, a rotina vira \"acho que fizeram\".\n\nSalve para montar a rotina da sua academia.\n\n💬 Comente REPARO e faça um tour pela ReparoFit: veja a equipe marcando limpeza e lubrificação pelo celular.\n\n#gestaodeacademia #limpezadeacademia #manutencaodeacademia\n\n1º COMENTÁRIO\nNa sua academia, a lubrificação dos aparelhos tem data marcada ou acontece quando alguém lembra? 👇\n\nSTORIES\n8h · \"A limpeza dos aparelhos aí tem rotina escrita?\" · FIGURINHA enquete: Tem rotina / Fica na confiança (você publica pelo app)\n12h30 · \"Pó e suor também gastam o aparelho.\" · sem figurinha (automático)\n19h · \"Hoje às 19h30: o erro de lubrificação que ninguém percebe.\" · aponta para o post · sem figurinha (automático)",
+   "w": 1100,
+   "x": 10560,
+   "y": 7680
+  },
+  "s3-qui-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Qui 22/10 · carrossel C · Alternado · 19h30 · REPARO",
+   "w": 240,
+   "x": 0,
+   "y": 7400
+  },
+  "s3-sab-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "SÁB 24/10 · POST SIMPLES · CARBONO · 19h30\nSem palavra-chave · IA: sim (foto da esteira)\n\nLEGENDA\nSem histórico, toda quebra é surpresa.\n\nA esteira que parou hoje provavelmente deu sinais antes: um ruído, um tranco, um aviso de aluno que ficou perdido no grupo do WhatsApp.\n\nQuando cada sinal, conserto e preventiva fica registrado no aparelho, a próxima quebra deixa de ser surpresa e vira decisão: consertar agora, programar a preventiva ou planejar a troca.\n\n#gestaodeacademia #manutencaodeacademia #academia\n\n1º COMENTÁRIO\nSe a esteira mais usada da sua academia parasse hoje, você saberia dizer quando foi a última manutenção dela? 👇\n\nSTORIES\n8h · \"Quando foi a última manutenção da sua esteira mais usada?\" · FIGURINHA caixa de perguntas (você publica pelo app)\n12h30 · \"Cada aparelho com o próprio histórico\" (card com selo DADOS DEMONSTRATIVOS) · sem figurinha (automático)\n19h · \"Hoje às 19h30: sem histórico, toda quebra é surpresa.\" · aponta para o post · sem figurinha (automático)",
+   "w": 1100,
+   "x": 10560,
+   "y": 12800
+  },
+  "s3-sab-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Sáb 24/10 · post simples Carbono · 19h30",
+   "w": 240,
+   "x": 0,
+   "y": 12520
+  },
+  "s3-seg-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "SEG 19/10 · POST SIMPLES · PAPEL · 7h30\nSem palavra-chave · sem imagem de IA\n\nLEGENDA\nManutenção cara não é a que custa mais. É a que ninguém planejou.\n\nQuando a manutenção é planejada, ela tem data, acontece fora do horário de pico e o custo já está previsto.\n\nQuando é de surpresa, o aparelho para no meio do treino, o conserto vira urgência e a peça sai pelo preço que tiver.\n\nA diferença entre as duas não é sorte. É calendário e registro.\n\n#gestaodeacademia #manutencaodeacademia #academia\n\n1º COMENTÁRIO\nNa sua academia, a maior parte da manutenção é planejada ou de surpresa? 👇\n\nSTORIES\n8h · \"Sua academia faz preventiva ou espera quebrar?\" · FIGURINHA enquete: Faço preventiva / Espero quebrar (você publica pelo app)\n12h30 · \"Quebra de surpresa escolhe o pior horário.\" · sem figurinha (automático)\n19h · \"Manutenção cara é a que ninguém planejou.\" · aponta para o post · sem figurinha (automático)",
+   "w": 1100,
+   "x": 10560,
+   "y": 0
+  },
+  "s3-seg-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Seg 19/10 · post simples Papel · 7h30",
+   "w": 240,
+   "x": 0,
+   "y": -280
+  },
+  "s3-semana": {
+   "kind": "title1",
+   "maxW": 8000,
+   "page": "semana-3",
+   "text": "Semana 3 · 19–25/10 · Preventiva não é gasto",
+   "w": 240,
+   "x": 0,
+   "y": -640
+  },
+  "s3-sex-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "SEX 23/10 · CARROSSEL A · ESCURO · 6 págs · 12h\nPalavra: REPARO (tour) · Material de brinde na DM: materiais/plano-de-preventiva-mensal-reparofit.pdf · IA: sim (foto da pág. 6) · pág. 3 com selo DADOS DEMONSTRATIVOS\n\nLEGENDA\nO mito da manutenção que faz a academia gastar mais.\n\nA frase é \"preventiva é gasto\". Parece economia não mexer no que está funcionando. Mas a conta só fica para depois, e volta maior: conserto de urgência, peça pelo preço que tiver e aparelho parado no horário de pico.\n\nPreventiva é o contrário: data marcada, peça comprada antes e histórico para saber quando vale trocar.\n\nPara começar: liste os aparelhos que mais quebram, dê uma data no mês para cada um e registre o que foi feito.\n\n💬 Comente REPARO e faça um tour pela ReparoFit. O plano de preventiva mensal em PDF vai junto.\n\n#gestaodeacademia #manutencaodeacademia #academia\n\n1º COMENTÁRIO\nNa sua academia, a preventiva tem data no calendário ou acontece quando sobra tempo? 👇\n\nSTORIES\n8h · \"Verdade ou mito? Preventiva é gasto.\" · FIGURINHA enquete: Verdade / Mito (você publica pelo app)\n12h30 · \"A preventiva tem data. A quebra não avisa.\" · aponta para o post (já no ar desde 12h) · sem figurinha (automático)\n19h · \"Quer ver a preventiva no painel? Comente REPARO.\" · sem figurinha (automático)",
+   "w": 1100,
+   "x": 10560,
+   "y": 10240
+  },
+  "s3-sex-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Sex 23/10 · carrossel A · Escuro · 12h · REPARO",
+   "w": 240,
+   "x": 0,
+   "y": 9960
+  },
+  "s3-ter-n": {
+   "fill": "orange",
+   "maxH": 2300,
+   "page": "semana-3",
+   "size": 40,
+   "text": "TER 20/10 · CARROSSEL B · CLARO · 6 págs · 7h30\nPalavra: REPARO (tour) · Material de brinde na DM: materiais/ronda-dos-5-sinais-esteira-reparofit.pdf · IA: sim (foto da pág. 4)\n\nLEGENDA\n5 sinais de que a esteira vai parar em breve:\n\n01 · Ruído novo a cada volta da lona\n02 · Lona patinando ou dando tranco\n03 · Lona puxando para um lado\n04 · Velocidade oscilando ou painel reiniciando\n05 · Cheiro de queimado ou motor esquentando além do normal\n\nA esteira quase nunca para do nada. Ela dá sinais. O problema é que ninguém anota, e o sinal se perde entre um turno e outro.\n\nSalve para fazer a ronda toda semana.\n\n💬 Comente REPARO e faça um tour pela ReparoFit. A ficha da ronda semanal em PDF vai junto.\n\n#gestaodeacademia #manutencaodeacademia #academia\n\n1º COMENTÁRIO\nQual desses sinais aparece com mais frequência na sua academia? 👇\n\nSTORIES\n8h · \"5 sinais de que a esteira vai parar.\" · aponta para o carrossel · sem figurinha (automático)\n12h30 · \"Sinal 01: ruído novo.\" · sem figurinha (automático)\n19h · \"Qual sinal aparece mais aí?\" · FIGURINHA enquete: Ruído novo / Lona patinando / Painel reiniciando (você publica pelo app)",
+   "w": 1100,
+   "x": 10560,
+   "y": 2560
+  },
+  "s3-ter-t": {
+   "kind": "title1",
+   "maxW": 6880,
+   "page": "semana-3",
+   "text": "Ter 20/10 · carrossel B · Claro · 7h30 · REPARO",
+   "w": 240,
+   "x": 0,
+   "y": 2280
+  }
+ },
+ "order": [
+  "semana-3/segunda-19-feed-01.dc.html",
+  "semana-3/segunda-19-story-1.dc.html",
+  "semana-3/segunda-19-story-2.dc.html",
+  "semana-3/segunda-19-story-3.dc.html",
+  "semana-3/terca-20-feed-01.dc.html",
+  "semana-3/terca-20-feed-02.dc.html",
+  "semana-3/terca-20-feed-03.dc.html",
+  "semana-3/terca-20-feed-04.dc.html",
+  "semana-3/terca-20-feed-05.dc.html",
+  "semana-3/terca-20-feed-06.dc.html",
+  "semana-3/terca-20-story-1.dc.html",
+  "semana-3/terca-20-story-2.dc.html",
+  "semana-3/terca-20-story-3.dc.html",
+  "semana-3/quarta-21-feed-01.dc.html",
+  "semana-3/quarta-21-story-1.dc.html",
+  "semana-3/quarta-21-story-2.dc.html",
+  "semana-3/quarta-21-story-3.dc.html",
+  "semana-3/quinta-22-feed-01.dc.html",
+  "semana-3/quinta-22-feed-02.dc.html",
+  "semana-3/quinta-22-feed-03.dc.html",
+  "semana-3/quinta-22-feed-04.dc.html",
+  "semana-3/quinta-22-feed-05.dc.html",
+  "semana-3/quinta-22-feed-06.dc.html",
+  "semana-3/quinta-22-story-1.dc.html",
+  "semana-3/quinta-22-story-2.dc.html",
+  "semana-3/quinta-22-story-3.dc.html",
+  "semana-3/sexta-23-feed-01.dc.html",
+  "semana-3/sexta-23-feed-02.dc.html",
+  "semana-3/sexta-23-feed-03.dc.html",
+  "semana-3/sexta-23-feed-04.dc.html",
+  "semana-3/sexta-23-feed-05.dc.html",
+  "semana-3/sexta-23-feed-06.dc.html",
+  "semana-3/sexta-23-story-1.dc.html",
+  "semana-3/sexta-23-story-2.dc.html",
+  "semana-3/sexta-23-story-3.dc.html",
+  "semana-3/sabado-24-feed-01.dc.html",
+  "semana-3/sabado-24-story-1.dc.html",
+  "semana-3/sabado-24-story-2.dc.html",
+  "semana-3/sabado-24-story-3.dc.html",
+  "semana-3/domingo-25-feed-01.dc.html",
+  "semana-3/domingo-25-story-1.dc.html",
+  "semana-3/domingo-25-story-2.dc.html",
+  "semana-3/domingo-25-story-3.dc.html"
+ ],
+ "pages": [
+  {
+   "id": "semana-3",
+   "name": "Semana 3 · 19–25/10"
+  }
+ ],
+ "title": "ReparoFit · Instagram"
+}
