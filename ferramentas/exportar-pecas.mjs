@@ -28,7 +28,13 @@ const fontCss = `
 @font-face{font-family:'JetBrains Mono';src:url('${ff('jetbrains-mono-latin-700-normal.woff2')}') format('woff2');font-weight:700}
 body{margin:0}`;
 
-const [saida, ...arquivos] = process.argv.slice(2);
+let args = process.argv.slice(2);
+// --mapa <json>: {"/_blob/<id>": "caminho/no/repositorio.png"} para trocar uploads do canvas por arquivos locais.
+let mapa = {};
+const im = args.indexOf('--mapa');
+if (im >= 0) { mapa = JSON.parse(fs.readFileSync(args[im + 1], 'utf8')); args.splice(im, 2); }
+const raiz = path.resolve(aqui, '..');
+const [saida, ...arquivos] = args;
 if (!saida || arquivos.length === 0) { console.error('uso: node exportar-pecas.mjs <saida> <arquivos.dc.html...>'); process.exit(1); }
 fs.mkdirSync(saida, { recursive: true });
 
@@ -39,6 +45,9 @@ for (const arq of arquivos) {
   let w = 1080, h = 1350;
   const m = html.match(/data-props='([^']*)'/);
   if (m) { try { const p = JSON.parse(m[1]); if (p.$preview) { w = p.$preview.width; h = p.$preview.height; } } catch {} }
+  for (const [blob, local] of Object.entries(mapa)) html = html.split(blob).join('file://' + path.resolve(raiz, local));
+  const semMapa = html.match(/\/_blob\/[A-Za-z0-9_-]+/g);
+  if (semMapa) { console.warn(`aviso: ${arq} usa ${[...new Set(semMapa)].join(', ')} sem entrada no --mapa`); falhas++; }
   if (/\{\{[^}]+\}\}/.test(html)) console.warn(`aviso: ${arq} tem {{holes}}; o PNG mostrará o texto cru`);
   html = html
     .replace(/<script src="\.\/support\.js"><\/script>/, '')
